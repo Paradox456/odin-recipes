@@ -7,11 +7,13 @@ Table of Contents:
 1) Introduction
 2) Ingredients
 3) Instructions
+   
       Biryani
       Butter Chicken
       Chicken Tikka Masala
 
 Introduction:
+
 Indian cuisine is renowned for its diversity and complexity of flavors. This ReadMe page is dedicated to three iconic Indian dishes: Biryani, Butter Chicken, and Chicken Tikka Masala. These recipes combine tender meats with aromatic spices, creating a symphony of taste that's hard to resist.
 
 Ingredients
