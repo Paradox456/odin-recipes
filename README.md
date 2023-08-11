@@ -1,5 +1,6 @@
 # odin-recipes
 Delicious Indian Cuisine Recipes: Biryani, Butter Chicken, and Chicken Tikka Masala
+
 Welcome to our collection of mouthwatering Indian cuisine recipes! Whether you're a seasoned chef or just getting started in the kitchen, these recipes for Biryani, Butter Chicken, and Chicken Tikka Masala will transport your taste buds to the vibrant streets of India. Get ready to embark on a culinary journey filled with rich flavors and aromatic spices.
 
 Table of Contents:
